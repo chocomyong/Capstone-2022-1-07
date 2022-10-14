@@ -33,8 +33,9 @@
 
 # 3. 구성도
 ![자산 1](https://user-images.githubusercontent.com/86135837/195827992-68129bba-ee00-4a10-be76-c6a5a610edbb.png)
+![자산 1](https://github.com/chocomyong/Capstone-2022-1-07/issues/5#issue-1409157726.png)
 
-![111](https://user-images.githubusercontent.com/86135837/195827234-d91b2f70-4dd5-4a7f-a5c9-2755720d6483.jpg)
+ 
 ![222](https://user-images.githubusercontent.com/86135837/195827238-aed6f71a-33ce-40da-9db0-cd91dd813999.jpg)
 
 # 4. 소개 및 시연 영상
