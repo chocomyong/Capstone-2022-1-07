@@ -32,6 +32,7 @@
 
 
 # 3. 구성도
+![자산 1](https://user-images.githubusercontent.com/86135837/195827992-68129bba-ee00-4a10-be76-c6a5a610edbb.png)
 
 ![111](https://user-images.githubusercontent.com/86135837/195827234-d91b2f70-4dd5-4a7f-a5c9-2755720d6483.jpg)
 ![222](https://user-images.githubusercontent.com/86135837/195827238-aed6f71a-33ce-40da-9db0-cd91dd813999.jpg)
