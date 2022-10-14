@@ -32,8 +32,11 @@
 
 
 # 3. 구성도
+* 시스템 구성은 아래와 같다.
 ![자산 1](https://user-images.githubusercontent.com/86135837/195827992-68129bba-ee00-4a10-be76-c6a5a610edbb.png)
-![자산 2](![자산 2](https://user-images.githubusercontent.com/86135837/195829284-f5157bd9-694d-468b-a38b-08bd5a61a677.png))
+
+* S·R(Super Resolution)기능을 적용하여 이미지가 개선된것을 확인할 수 있다.
+![자산 2](https://user-images.githubusercontent.com/86135837/195829284-f5157bd9-694d-468b-a38b-08bd5a61a677.png)
 
   
 # 4. 소개 및 시연 영상
