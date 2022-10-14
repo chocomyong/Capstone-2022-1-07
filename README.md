@@ -34,7 +34,9 @@
 # 3. 구성도
 * 시스템 구성은 아래와 같다.
 
-
+<p align="center">
+  <img =src="https://user-images.githubusercontent.com/86135837/195827992-68129bba-ee00-4a10-be76-c6a5a610edbb.png"/>
+  </p>
 > ![자산 1](https://user-images.githubusercontent.com/86135837/195827992-68129bba-ee00-4a10-be76-c6a5a610edbb.png)
 
 * S·R(Super Resolution)기능을 적용하여 이미지가 개선된것을 확인할 수 있다.
